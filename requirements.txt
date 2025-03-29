@@ -2,3 +2,5 @@ requests
 termcolor
 pyfiglet
 tqdm
+beautifulsoup4
+dnspython
